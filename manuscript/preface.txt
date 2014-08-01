@@ -1,7 +1,37 @@
 # Preface
 
-I would like to thank
+This book is both a resource and an experiment. For the reader it is a resource, since I provide a write-up of my research over the last decade. It is also an experiment, since I write the book "open source", publishing it on the go. 
 
+
+
+
+## Why a book on music and movement? 
+
+Music-related body movement has been a 
+
+This book is based on the Norwegian-only book *Musikk og bevegelse* (Jensenius, 2009), which again was based on my Ph.D. dissertation (Jensenius, 2007). Much of the same material is covered in this book, but it is updated to include my latest research, as well as knowledge gained from teaching a course on music and movement for the last years. 
+
+
+
+## Why writing open source?
+
+My previous book was published through a regular academic publisher, and I always thought that this book would also be published through such a channel. However, the development in the field is rapid, and I felt the need to rethink this decision. 
+
+
+## Why would I need a publisher? 
+
+The main job of a publisher is to provide quality control (in both content and presentation) as well as marketing and sales. 
+
+Marketing of niche academic literature is mainly done through colleagues adding literature to their curricula and advising students to buy books. When it comes to selling books, bookstores are nowadays disappearing anyways, with mainly electronic bookstores being left.
+
+As a tenured faculty member, I am not writing books to earn money, but to spread knowledge. What I have earned from my previous book is so small that I would rather just have given the book away for free. , particularly compared to the rather steep price that the students have to pay for the book. I 
+
+ marketing and sales is mainly done through colleagues a
+
+## Why write in sprints?
+
+Also, living a hectic academic and small-children life, time is limited. Hence, I have also written this book as a series of sprints. This is based on the idea of [writing sprints](http://www.rubyslipperedsisterhood.com/a-quick-guide-to-our-writing-sprints/), in which you write concentrated for 20 minutes at a time. 
 
 Oslo, 2014
+
 Alexander Refsum Jensenius
